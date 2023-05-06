@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Minha página com estilos em cascata</title>
+<style>
+
+
+body {
+background-image: url("https://steamcdn-a.akamaihd.net/steamcommunity/public/images/items/1323470/cede4dd47b89540a037529ce95dc5244ef55faa1.jpg");
+background-size: cover;
+background-size: cover;
+background-repeat: no-repeat;
+background-color: #000000;
+}
+
+header {
+background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/60f9e42d-32ed-4188-bffb-ec982da5633f/dd27two-f32db991-5253-4460-9ad1-d5d5435af8b6.jpg/v1/fill/w_1280,h_509,q_75,strp/undertale_underscape_midnight_stars_by_monotimewolf_dd27two-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9NTA5IiwicGF0aCI6IlwvZlwvNjBmOWU0MmQtMzJlZC00MTg4LWJmZmItZWM5ODJkYTU2MzNmXC9kZDI3dHdvLWYzMmRiOTkxLTUyNTMtNDQ2MC05YWQxLWQ1ZDU0MzVhZjhiNi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.dI5zTSXaiEpZTiZshtHlWACvZPex_VQ09bYq-0P-aYg");
+background-size: 400px;
+border-top: solid 10px;
+border-bottom:solid 2px;
+
+
+}
+
+h1 {
+color: rgb(0, 0, 0);
+font-size: 44px;
+text-align: center;
+font-style: normal;
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: rgb(255, 255, 255);
+
+}
+
+
+h2 {
+color: rgb(255, 255, 255);
+font-size:15px;
+font-style:normal;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+margin-top: 1px;
+-webkit-text-stroke-width: 1px;
+-webkit-text-stroke-color: black;
+}
+
+p {
+color: rgb(0, 0, 0);
+font-size: 20px;
+text-align: justify;
+}
+
+img {
+
+width: 43%;
+margin-top: 20px;
+margin-bottom: 15px;
+height: auto;
+border-radius: 12px;
+outline: auto  royalblue
+}
+
+.opinions {
+float: left;
+width: 50%;
+}
+
+h3 {
+color: rgb(255, 255, 255);
+font-size: 25px;
+font-style:normal;
+margin-right: 0px;
+font-family:monospace;
+margin-top: 40px;
+-webkit-text-stroke-width: 1.5px;
+-webkit-text-stroke-color: royalblue
+
+}
+
+h4 {
+color: rgb(255, 255, 255);
+font-size:16px;
+font-style: normal;
+margin-right: 1px;
+font-family: Tahoma, sans-serif;
+margin-top: 40px;
+-webkit-text-stroke-width: 0.8px;
+-webkit-text-stroke-color: rgb(7, 7, 7);
+}
+
+h5 {
+color: rgb(255, 255, 255);
+font-size: 25px;
+font-style:normal;
+margin-right: 0px;
+font-family:monospace;
+margin-top: 160px;
+-webkit-text-stroke-width: 1.5px;
+-webkit-text-stroke-color: royalblue
+}
+
+h6 {
+color: rgb(255, 255, 255);
+font-size:16px;
+font-style: normal;
+margin-right: 1px;
+font-family: Tahoma, sans-serif;
+margin-top: 40px;
+-webkit-text-stroke-width: 0.8px;
+-webkit-text-stroke-color: rgb(7, 7, 7);
+}
+
+h7 {
+color: rgb(255, 255, 255);
+font-size: 25px;
+font-style:normal;
+margin-right: 0px;
+font-family:monospace;
+margin-top: 650px;
+margin-bottom: 43px;
+-webkit-text-stroke-width: 1.1px;
+-webkit-text-stroke-color: royalblue
+}
+
+h8 {
+color: rgb(255, 255, 255);
+font-size:16px;
+font-style: normal;
+margin-right: 1px;
+font-family: Tahoma, sans-serif;
+margin-top: 44400px;
+-webkit-text-stroke-width: 0.8px;
+-webkit-text-stroke-color: rgb(7, 7, 7);
+}
+
+</style>
+
+</head>
+<body>
+<h1>Bem-vindo à minha página</h1>
+<p>Esta é uma página HTML com estilos em cascata. Os estilos estão definidos na seção de cabeçalho usando a tag &lt;style&gt;.</p>
+</body>
+</html>
