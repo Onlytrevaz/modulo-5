@@ -132,16 +132,7 @@ margin-top: 44400px;
 -webkit-text-stroke-color: rgb(7, 7, 7);
 }
 
-
-form{
-height: 50px;
-
-}
 </style>
-
 </head>
-<body>
-<h1>Bem-vindo à minha página</h1>
-<p>Esta é uma página HTML com estilos em cascata. Os estilos estão definidos na seção de cabeçalho usando a tag &lt;style&gt;.</p>
 </body>
 </html>
